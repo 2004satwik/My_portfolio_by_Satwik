@@ -8,8 +8,8 @@
 
     "preloaderSettings": {
         "enabled": true,
-        "title": "My <strong>Portfolio</strong>",
-        "subtitle": "Satwik Bhat",
+        "title": "Satwik's <strong>Portfolio</strong>",
+        "subtitle": "loading...",
         "logoOffset": {
             "right": 14,
             "top": 2,
